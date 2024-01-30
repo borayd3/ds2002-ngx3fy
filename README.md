@@ -2,7 +2,7 @@
 
 test repo for class
 
-## Here is a secondady headline
+## Here is a secondary headline
 
 today shfhhhfh
 sdhhhhfhfh
