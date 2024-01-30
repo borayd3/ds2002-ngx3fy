@@ -2,7 +2,7 @@
 
 test repo for class
 
-## Here is a secondary headline
+## Here is a secondady headline
 
 today shfhhhfh
 sdhhhhfhfh
@@ -13,11 +13,3 @@ shdhdhdhhdhhds'
 shdhdhdhhd
 - ngx3fy@virginia.edu
 - http ://wee.google.com/
-
-
-## here is another 
-
-example
-
-to test in class 
-
